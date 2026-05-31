@@ -9,6 +9,7 @@ runs through your Oriora account and wallet. One Oriora login works across every
 
 | App | Platform | Download |
 |-----|----------|----------|
+| **Desk Workday Log** — your Mac remembers your workday, ask it anything | macOS (Apple Silicon) | [Download .dmg](apps/desk-workday-log) |
 | **Oriora Expense** — receipts → clean ledger + audit trail | macOS (Apple Silicon) | _Final signing — coming soon_ |
 
 _More apps land here as they ship._
